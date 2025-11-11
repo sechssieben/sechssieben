@@ -8,6 +8,4 @@ href="https://doposi.carrd.co/"
 
 carrd
 
-<p align="center">
-
-selective mutism & autism </p>
+<p align="center"> selective mutism & autism </p>
