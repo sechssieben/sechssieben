@@ -12,5 +12,3 @@ carrd
 href="https://en.pronouns.page/@labsenct"
 
 pronouns page
-
-<p align="center"> selective mutism & autism </p>
