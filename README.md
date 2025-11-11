@@ -4,8 +4,13 @@
 </div>
 
 <p align="center"><a
-href="https://doposi.carrd.co/" href="https://en.pronouns.page/@labsenct"
+href="https://doposi.carrd.co/"
 
 carrd
+
+<p align="center"><a
+href="https://en.pronouns.page/@labsenct"
+
+pronouns page
 
 <p align="center"> selective mutism & autism </p>
