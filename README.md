@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://ik.imagekit.io/zrgresdqq/20251126_135511.jpg" alt="image"/>
+<img src="https://ik.imagekit.io/zrgresdqq/Untitled1271_20251211101503.png" alt="image"/>
 </div>
 
 <p align="center"><a
