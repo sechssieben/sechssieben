@@ -6,4 +6,4 @@
 <p align="center"><a
 href="https://rentry.co/arthr0p0da"
 
-renty
+rentry
