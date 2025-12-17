@@ -4,6 +4,6 @@
 </div>
 
 <p align="center"><a
-href="https://arthr0p0da.straw.page"
+href="https://rentry.co/arthr0p0da"
 
-strawpage
+renty
